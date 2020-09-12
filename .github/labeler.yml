@@ -1,0 +1,36 @@
+ʿaqīdah:
+    - '(aqeedah|aqida|aqidah|eemaan|iman|tawhid|tawheed|creed)'
+priority-urgent:
+    - '(asap|important|urgent)'
+ṣalāt:
+    - '(fajr|dhuhr|zuhr|asr|maghrib|magrib|isha|eeshaa|prayer|praying|salaah|salat|salaah|salaat)'
+corrections:
+    - '(typo|correction|mistake)'
+family:
+    - '(children|child|kids|baby|babies|breastfeeding|nursing|nurse|parents|parent|mother|son|daughter|mom|father|fathers|grandfather|grandmother|grandma|grandpa|uncle)'
+fiqh:
+    - '(fiqh|madhab|madaahib|madhaahib|jurisprudence|hanifa|malik|maalik|hanbali|hanafi|shafiee|shafi|shaafiee|ahnaf|maliki|maaliki|hanabila|hanaabila)'
+ikhtilāf:
+    - '(ikhtilaf|ikhtilaaf|opinions)'
+jarḥ wa ʾl-taʿdīl:
+    - '(refutation|refutations|abandoned|liar|lying)'
+manhaj:
+    - '(refutation|sect|sects|ikhwani|ikhwaani|sufi|sufism|radd|rudud|rudood|manhaj|methodology|rulers|ruler)'
+muṣṭalaḥ:
+    - '(mustalah|science)'
+nikkah:
+    - '(marriage|nikkah|husband|wife|spouse|spouses|spousal|sex|intercourse|intimacy|jalsa|jalsah|walee|wali|guardian|contraception|contraceptives)'
+nisāʾ:
+    - '(women|feminine|concealer|beauty|woman|menses|menstruation)'
+qurʾān:
+    - '(quran|mushaf|ayat|ayaat)'
+ramaḍān:
+    - '(ramadan|ramadaan|ramadhaan|fasting|siyaam|siyam|fast)'
+sīrah:
+    - '(biography|biographies)'
+tafsīr:
+    - '(tafseer|tafsir|kathir|katheer|explanation|explain)'
+taharrah:
+    - '(find|looking|research)'
+takhrīj:
+    - '(grading|authenticity|authentic|weak|munkar)'
