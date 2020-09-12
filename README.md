@@ -1,4 +1,4 @@
-# IlmTest Questions Portal
+# IlmTest Questions Forums
 
 [Tutorial video on how to submit questions](https://youtu.be/MYQYVoQZ7P4)
 
