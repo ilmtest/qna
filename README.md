@@ -1,8 +1,8 @@
-# IlmTest Questions Forums
+# IlmTest Q&A Forum
 
 [Tutorial video on how to submit questions](https://youtu.be/MYQYVoQZ7P4)
 
-Welcome to the `IlmTest Q&A Portal` where you can submit questions to the members of the IlmTest project.
+Welcome to the `IlmTest Q&A Forum` where you can submit questions to the members of the IlmTest project.
 
 Please observe the following etiquettes when asking questions.
 
